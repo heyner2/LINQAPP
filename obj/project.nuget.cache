@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vsgExK60y6HZ80mo/8Oghx0w0Tr4NLRrCoYBv9nrgq23dWy5b03HrVvQrWcKBOdpiO2lgeJ9X/MuxJMdzOe8LQ==",
+  "dgSpecHash": "8MXMam1CAwXPTOfKSPgaLotXint/ROWMtokiN8ldhwEAKoD5HP7BF2S9uPX9cDLlradE/6XWAonTRe4+0VnbAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CREATIVA\\Documents\\ASP.NET\\LINQProject\\LINQProject\\LINQProject.csproj",
+  "projectFilePath": "C:\\Users\\CREATIVA\\Documents\\ASP.NET\\LINQ\\LINQProject\\LINQProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CREATIVA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\CREATIVA\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
